@@ -2091,6 +2091,10 @@ ul { list-style: none; }
   .hero-text { order: 2; }
   .hero-visual { order: 1; }
   .hero-description { margin-inline: auto; }
+  .hero-description {
+     margin-inline: auto;
+     color: green;
+  }
   .hero-stats { justify-content: center; }
   .hero-actions { justify-content: center; }
   .hero-badge { margin-inline: auto; }
